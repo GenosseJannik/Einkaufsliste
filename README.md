@@ -4,6 +4,8 @@
 
 *Jannik Mustermann*
 
+![Ein tolles Bild](/Bibliothek.jpg)
+
 __012345/6789101112__
 
 * geboren 2001
