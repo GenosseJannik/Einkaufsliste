@@ -16,6 +16,8 @@ __012345/6789101112__
 
 * Arbeiten bei Autoreifenhersteller in Butzbach 2019-2022
 
+* Butzbach Erwachsenenvollzug _2022_-_2025_ *(bei guter führung)*
+
 
 
 Praktikumsaufgabe4
